@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently a Staff Backend Software Engineer at ByteDance.
+
+I am interested in:
+- Distributed systems
+- Database
+- Go
